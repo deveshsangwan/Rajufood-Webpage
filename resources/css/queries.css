@@ -42,7 +42,7 @@
             margin: 0 0 4% 0;
         }
         .main-nav { display: none; }
-        
+
         .mobile-nav-icon {
             display: inline-block;
         }
@@ -68,7 +68,7 @@
         }
         .sticky .mobile-nav-icon { margin-top: 10px; }
         .sticky .mobile-nav-icon i { color: #555; }
-        
+
         h1 { font-size: 180%; }
         h2 { font-size: 150%; }
         .long-copy {
@@ -86,7 +86,7 @@
         }
         .works-step { margin-bottom: 20px; }
         .works-step:last-of-type { margin-bottom: 20px; }
-        
+
          .map-box {
             width: 100%;
             height: auto;
@@ -117,7 +117,7 @@
           header {
             height: 100%;
           }
-          .hero-text-box {
+          .hero1-text-box {
               position: relative;
               margin-top: 100px;
           }
